@@ -64,8 +64,6 @@ _Label them to see them._
 
 Feedback: [Create a pull request]()
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; 
-
 This work is licensed under a
 [Creative Commons Attribution 4.0 International][cc-by].
 
