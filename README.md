@@ -22,56 +22,36 @@ _Label them to see them._
 -->
 
 ## Materials:
-  - Primary Antibody:
-    [Mouse anti-Human CD45 (HI30)](https://www.ptglab.com/products/CD45-Antibody-65109-1-Ig.htm)
-  - Secondary Antibody:
-    [Goat anti-Mouse IgG](https://www.bioscience.co.uk/product~73025)
-  - Dye:
-    [Atto 647N](https://www.aatbio.com/products/atto-647n-nhs-ester) supplied with an NHS (N-hydroxysuccinimde) ester reactive group.
+  - Primary Labelling Buffer (see [Protocol](https://github.com/astormic/Antibody_Dye_Conjugation/tree/main))
+  - Secondary Labelling Buffer (see [Protocol](https://github.com/astormic/Antibody_Dye_Conjugation/tree/main))
+  - Unlablled primary antibody
   - Phosphate buffered saline (PBS)
-  - Sodium bicarbonate (SoBi), 1M, pH8.5
 
 ## Methods:
 ### Primary labelling
-1. Take 
-2. Add 2 µL of dye to the mixture
-3. Take 1.5 µL of the buffer to measure the concentration using UV-Vis
-4. Leave it at room temperature (1 hour)
-5. Run the buffer through a new gel filteration column
+1. Take 2mL of cells from the flask
+2. Centrifuge to 50 µL (200G for 2 min) 1x
+3. Pour off the wash buffer into a waste container.
+4. Put in primary labelling buffer (1:100). Probably around 0.5 µL. 
+5. Leave it in the fridge for 30 min.
+6. Wash out the primary using 1 mL PBS
+7. Centrifuge to 50 µL (200G for 2 min) 2x
 
 ### Secondary labelling
-1. Add 5 µL of SoBi to the proteins and mix them
-2. Add 6 µL of dye to the mixture
-3. Take 1.5 µL of the buffer to measure the concentration using UV-Vis
-4. Leave it at room temperature (1 hour)
-5. Run the buffer through a new gel filteration column
+1. Take 2mL of cells from the flask
+2. Centrifuge to 50 µL (200G for 2 min) 1x
+3. Pour off the wash buffer into a waste container.
+4. Put in unlablled primary buffer (1:100). Probably around 0.5 µL. 
+5. Leave it in the fridge for 30 min.
+6. Wash out the primary using 1 mL PBS.
+8. Centrifuge to 50 µL (200G for 2 min) 1x
+9. Put in secondary labelling buffer (1:100). Probably around 0.5 µL.
+10. Leave it in the fridge for 30 min.
+11. Wash out using 1 mL PBS
+7. Centrifuge to 50 µL (200G for 2 min) 2x
    
 ## FAQs: 
-**Why do we use sodium bicarbonate?**
 
-A sodium bicarbonate (SoBi) buffer provides the optimal pH for the NHS ester of the dye to react efficiently with the antibody.
-
-**Why do we exchange the buffer in gel filteration column?**
-
-To be able to filter the sodium azide in protein solution. 
-
-## Appendix
-### Calculations for primary CD45 bioconjugation
-| Material | Concentration | Amount | Concentration in mixture |
-| -------- | ------- | ------- | ------- |
-| Mouse Anti-Human CD45 | 3.3 µM | 20 µL | 2.7 µM  | 
-| Atto 647N       | 1 mM   | 2 µL  | 83.3 µM | 
-| SoBi            | 1 M    | 2 µL  | 8e+5 µM |
-
-### Calculations for secondary bioconjugation
-| Material | Concentration | Amount | Concentration in mixture |
-| -------- | ------- | ------- | ------- |
-| Goat Anti-Mouse | 3.3 µM | 50 µL | 2.7 µM  | 
-| Atto 647N       | 1 mM   | 6 µL  | 98.3 µM | 
-| SoBi            | 1 M    | 5 µL  | 8e+5 µM |
-
-> [!NOTE]
-> Concentration in mixture is calculated using: $$Concentration.in.mixture = \frac{Concentration*Amount}{Total Volume}$$
  
 <footer>
 
@@ -84,6 +64,6 @@ To be able to filter the sodium azide in protein solution.
 
 Feedback: [Create a pull request]()
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [License]()
 
 </footer>
