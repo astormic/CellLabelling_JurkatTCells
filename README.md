@@ -64,6 +64,6 @@ _Label them to see them._
 
 Feedback: [Create a pull request]()
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [License]()
+&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [License](https://github.com/astormic/CellLabelling_JurkatTCells/blob/main/LICENSE)
 
 </footer>
