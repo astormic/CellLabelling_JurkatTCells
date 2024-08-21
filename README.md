@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Labelling membrane proteins on Jurkat T-cells using primary and secondary antibodies
+# Cell Labelling
 
-_Label them to see them._
+_Labelling membrane proteins on Jurkat T-cells using primary and secondary antibodies._
 
 </header>
 
