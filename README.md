@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Labelling Jurkat T-cells using primary and secondary antibodies
+# Labelling membrane proteins on Jurkat T-cells using primary and secondary antibodies
 
 _Label them to see them._
 
@@ -26,6 +26,8 @@ _Label them to see them._
   - Secondary Labelling Buffer (see [Protocol](https://github.com/astormic/Antibody_Dye_Conjugation/tree/main))
   - Unlablled primary antibody
   - Phosphate buffered saline (PBS)
+  - Centrifuge
+  - 20/200/1000µL pipettes and tips
 
 ## Methods:
 ### Primary labelling
@@ -53,10 +55,14 @@ _Label them to see them._
 12. Wash out using 1 mL PBS
 7. Centrifuge (200G for 2 min) 2x
 8. Resuspend cell pellet in 50 µL cell media.
-   
-## FAQs: 
 
- 
+## Graphical Materials and Methods: 
+**Centrifuge**
+
+<img src="https://github.com/astormic/CellLabelling_JurkatTCells/blob/main/Centrifuge.jpg" width="340" height="400">
+
+## FAQs:
+
 <footer>
 
 <!--
