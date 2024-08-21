@@ -29,7 +29,7 @@ _Label them to see them._
 
 ## Methods:
 ### Primary labelling
-1. Take 2mL of cells from the flask
+1. Take 1mL of cells from the flask
 2. Centrifuge (200G for 2 min) 1x
 3. Pour off the buffer into a waste container.
 4. Resuspend cell pellet in 50 µL cell media.
@@ -39,7 +39,7 @@ _Label them to see them._
 8. Centrifuge to 50 µL (200G for 2 min) 2x
 
 ### Secondary labelling
-1. Take 2mL of cells from the flask
+1. Take 1mL of cells from the flask
 2. Centrifuge to 50 µL (200G for 2 min) 1x
 3. Pour off the buffer into a waste container.
 4. Resuspend cell pellet in 50 µL cell media.
