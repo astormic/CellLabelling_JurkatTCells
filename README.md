@@ -30,25 +30,29 @@ _Label them to see them._
 ## Methods:
 ### Primary labelling
 1. Take 2mL of cells from the flask
-2. Centrifuge to 50 µL (200G for 2 min) 1x
-3. Pour off the wash buffer into a waste container.
-4. Put in primary labelling buffer (1:100). Probably around 0.5 µL. 
-5. Leave it in the fridge for 30 min.
-6. Wash out the primary using 1 mL PBS
-7. Centrifuge to 50 µL (200G for 2 min) 2x
+2. Centrifuge (200G for 2 min) 1x
+3. Pour off the buffer into a waste container.
+4. Resuspend cell pellet in 50 µL cell media.
+5. Put in primary labelling buffer (1:100). Probably around 0.5 µL. 
+6. Leave it in the fridge for 30 min.
+7. Wash out the primary using 1 mL PBS
+8. Centrifuge to 50 µL (200G for 2 min) 2x
 
 ### Secondary labelling
 1. Take 2mL of cells from the flask
 2. Centrifuge to 50 µL (200G for 2 min) 1x
-3. Pour off the wash buffer into a waste container.
-4. Put in unlablled primary buffer (1:100). Probably around 0.5 µL. 
-5. Leave it in the fridge for 30 min.
-6. Wash out the primary using 1 mL PBS.
-8. Centrifuge to 50 µL (200G for 2 min) 1x
-9. Put in secondary labelling buffer (1:100). Probably around 0.5 µL.
-10. Leave it in the fridge for 30 min.
-11. Wash out using 1 mL PBS
-7. Centrifuge to 50 µL (200G for 2 min) 2x
+3. Pour off the buffer into a waste container.
+4. Resuspend cell pellet in 50 µL cell media.
+5. Put in unlablled primary buffer (1:100). Probably around 0.5 µL. 
+6. Leave it in the fridge for 30 min.
+7. Wash out the primary using 1 mL PBS.
+8. Centrifuge (200G for 2 min) 1x
+9. Resuspend cell pellet in 50 µL cell media.
+10. Put in secondary labelling buffer (1:100). Probably around 0.5 µL.
+11. Leave it in the fridge for 30 min.
+12. Wash out using 1 mL PBS
+7. Centrifuge (200G for 2 min) 2x
+8. Resuspend cell pellet in 50 µL cell media.
    
 ## FAQs: 
 
