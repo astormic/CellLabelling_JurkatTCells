@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Conjugation of dye and antibody
+# Labelling Jurkat T-cells using primary and secondary antibodies
 
-_The process of attaching fluorescent molecules to antibodies._
+_Label them to see them._
 
 </header>
 
@@ -32,22 +32,14 @@ _The process of attaching fluorescent molecules to antibodies._
   - Sodium bicarbonate (SoBi), 1M, pH8.5
 
 ## Methods:
-### Buffer Exchange in Gel Filteration Column
-1. Take an aliquot of protein
-2. A quick spin
-3. Spin for 2min (1000)
-4. Run PBS 4 times (500 µL) and spin 4min (1000)
-5. Run the protein through
-6. Take the protein from the collection tube
-
-### Bioconjugation for primary CD45
-1. Add 2 µL of SoBi to the proteins and mix them
+### Primary labelling
+1. Take 
 2. Add 2 µL of dye to the mixture
 3. Take 1.5 µL of the buffer to measure the concentration using UV-Vis
 4. Leave it at room temperature (1 hour)
 5. Run the buffer through a new gel filteration column
 
-### Bioconjugation for secondary
+### Secondary labelling
 1. Add 5 µL of SoBi to the proteins and mix them
 2. Add 6 µL of dye to the mixture
 3. Take 1.5 µL of the buffer to measure the concentration using UV-Vis
