@@ -58,10 +58,6 @@ _Labelling membrane proteins on Jurkat T-cells using primary and secondary antib
 
 ## Graphical Materials and Methods:
 
-****
-
-<img src="https://github.com/astormic/CellLabelling_JurkatTCells/blob/main/Passaging.png" width="340" height="400">
-
 **Centrifuge**
 
 <img src="https://github.com/astormic/CellLabelling_JurkatTCells/blob/main/Centrifuge.jpg" width="340" height="400">
