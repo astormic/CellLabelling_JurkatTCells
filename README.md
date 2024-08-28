@@ -56,7 +56,12 @@ _Labelling membrane proteins on Jurkat T-cells using primary and secondary antib
 7. Centrifuge (200G for 2 min) 2x
 8. Resuspend cell pellet in 50 µL cell media.
 
-## Graphical Materials and Methods: 
+## Graphical Materials and Methods:
+
+****
+
+<img src="https://github.com/astormic/CellLabelling_JurkatTCells/blob/main/Passaging.jpg" width="340" height="400">
+
 **Centrifuge**
 
 <img src="https://github.com/astormic/CellLabelling_JurkatTCells/blob/main/Centrifuge.jpg" width="340" height="400">
