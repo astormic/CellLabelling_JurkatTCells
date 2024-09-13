@@ -56,6 +56,16 @@ _Labelling membrane proteins on Jurkat T-cells using primary and secondary antib
 7. Centrifuge (200G for 2 min) 2x
 8. Resuspend cell pellet in 50 µL cell media.
 
+In a light-sheet illuminated volume in an OPM microscope, there is a 2.8 nM upper concentration limit:
+
+$C_{max} = \frac{1}{V*Na}$
+
+$V$: the observation volume which can be calculated using light-sheet geometry.
+
+$Na$: The Avogadro's constant. $6.02214*10^23/mol$
+
+However, the number of molecules occupying the observation volume is fluctuating. This equation also ignores the noise that can limit the concentration of molecules. 
+
 ## Graphical Materials and Methods:
 
 **Centrifuge**
