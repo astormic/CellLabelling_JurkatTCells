@@ -9,7 +9,7 @@
 
 # Cell Labelling
 
-_Labelling membrane proteins on Jurkat T-cells using primary and secondary antibodies._
+_Labelling membrane proteins on Jurkat T-cells using primary and secondary antibodies. I'm constantly updating this repository by moving my notes to here. Let me know if you have any suggestions._
 
 </header>
 
