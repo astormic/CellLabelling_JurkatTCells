@@ -75,7 +75,7 @@ However, the number of molecules occupying the observation volume is fluctuating
 ## FAQs:
 
 ### Unspecific binding
-To identify unspecific bindings, we labelled the targets with only secondary antibody conjugated to a Atto 647N dye. This experiment was done in parallel with another sample that went through the same labelling process with the difference that in the second sample the cells were pre incubated in 1% BSA for half an hour on ice (live cells). To make sure the dyes observed with the microscope are due to unspecific binding, the final washing step was carried out twice for both samples. The labelling ratio for this experiment was 1:100. We tend to increase the concentration of BSA used for blocking purposes.
+To detect non-specific binding, we labelled the targets using only a secondary antibody conjugated to the Atto 647N NHS ester dye. This experiment was conducted alongside another sample that underwent the same labelling process, except the cells in the second sample were pre-incubated in 1% BSA for 30 minutes on ice (live cells). To ensure the observed signals were due to non-specific binding, both samples underwent two final washing steps. The antibody labelling ratio was 1:100 for this experiment, though we typically increase the concentration of BSA for blocking purposes.
 
 <footer>
 
