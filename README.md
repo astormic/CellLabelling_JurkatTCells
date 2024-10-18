@@ -32,7 +32,7 @@ _Labelling membrane proteins on Jurkat T-cells using primary and secondary antib
 ## Methods:
 ### Primary labelling
 1. Take 1mL of cells from the flask
-2. Centrifuge (200G for 2 min) 1x
+2. Centrifuge (300G for 2 min) 1x
 3. Pour off the buffer into a waste container.
 4. Resuspend cell pellet in 50 µL cell media.
 5. Put in primary labelling buffer (1:100). Probably around 0.5 µL. 
@@ -42,13 +42,13 @@ _Labelling membrane proteins on Jurkat T-cells using primary and secondary antib
 
 ### Secondary labelling
 1. Take 1mL of cells from the flask
-2. Centrifuge to 50 µL (200G for 2 min) 1x
+2. Centrifuge to 50 µL (300G for 2 min) 1x
 3. Pour off the buffer into a waste container.
 4. Resuspend cell pellet in 50 µL cell media.
 5. Put in unlablled primary buffer (1:100). Probably around 0.5 µL. 
 6. Leave it in the fridge for 30 min.
 7. Wash out the primary using 1 mL PBS.
-8. Centrifuge (200G for 2 min) 1x
+8. Centrifuge (300G for 2 min) 1x
 9. Resuspend cell pellet in 50 µL cell media.
 10. Put in secondary labelling buffer (1:100). Probably around 0.5 µL.
 11. Leave it in the fridge for 30 min.
@@ -56,6 +56,22 @@ _Labelling membrane proteins on Jurkat T-cells using primary and secondary antib
 7. Centrifuge (200G for 2 min) 2x
 8. Resuspend cell pellet in 50 µL cell media.
 
+#### Non-specific binding
+Protocol to prepare the samples to assess and compare the non-specific binding of the secondary antibody:
+1. Take 1mL of cells from the flask
+2. Centrifuge (300G for 2 min) 1x
+3. Pour off the buffer into a waste container.
+4. Resuspend cell pellet in 1mL BSA/PBS/cell media.
+5. Leave it on ice for 30 min.
+6. Spin down and take out the liquid.
+7. Resuspend cell pellet in 50 µL BSA/PBS/cell media.
+8. Put in secondary labelling buffer (1:100). Probably around 0.5 µL. 
+9. Leave it on ice for 30 min.
+10. Add 1mL of BSA/PBS/cell media.
+11. Spin and take all the liquid out.
+12. Repeat 10 and 11.
+13. Resuspend cell pellet in 50 µL BSA/PBS/cell media.
+    
 ### Notes
 In a light-sheet illuminated volume in an OPM microscope, there is a 2.8 nM upper concentration limit:
 
@@ -75,9 +91,9 @@ However, the number of molecules occupying the observation volume is fluctuating
 
 ## FAQs:
 
-### Unspecific binding
+### Non-specific binding
 To detect non-specific binding, we labelled the targets using only a secondary antibody conjugated to the Atto 647N NHS ester dye. This experiment was conducted alongside another sample that underwent the same labelling process, except the cells in the second sample were pre-incubated in 1% BSA for 30 minutes on ice (live cells). To ensure the observed signals were due to non-specific binding, both samples underwent two final washing steps. The antibody labelling ratio was 1:100 for this experiment, though we typically increase the concentration of BSA for blocking purposes.
-
+   
 <footer>
 
 <!--
