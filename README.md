@@ -32,9 +32,9 @@ _Labelling membrane proteins on Jurkat T-cells using primary and secondary antib
 ## Methods:
 ### Primary labelling
 1. Take 1mL of cells from the flask
-2. Centrifuge (300G for 2 min) 1x
+2. Centrifuge to 10^6 cells per 100 µL (300G for 2 min) 1x
 3. Pour off the buffer into a waste container.
-4. Resuspend cell pellet in 50 µL cell media.
+4. Resuspend cell pellet in 100 µL cold PBS.
 5. Put in primary labelling buffer (1:100). Probably around 0.5 µL. 
 6. Leave it in the fridge for 30 min.
 7. Wash out the primary using 1 mL PBS
