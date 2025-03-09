@@ -31,46 +31,55 @@ _Labelling membrane proteins on Jurkat T-cells using primary and secondary antib
 
 ## Methods:
 ### Primary labelling
-1. Take 1mL of cells from the flask
-2. Centrifuge to 10^6 cells per 100 µL (300G for 2 min) 1x
-3. Pour off the buffer into a waste container.
-4. Resuspend cell pellet in 100 µL cold PBS.
-5. Put in primary labelling buffer (1:100). Probably around 0.5 µL. 
-6. Leave it in the fridge for 30 min.
-7. Wash out the primary using 1 mL PBS
-8. Centrifuge to 50 µL (200G for 2 min) 2x
-
-### Secondary labelling
-1. Take 1mL of cells from the flask
+1. Take 1mL of cells from the flask (10^6 cells per mL)
 2. Centrifuge to 50 µL (300G for 2 min) 1x
 3. Pour off the buffer into a waste container.
-4. Resuspend cell pellet in 50 µL cell media.
-5. Put in unlablled primary buffer (1:100). Probably around 0.5 µL. 
+4. Resuspend cell pellet in 50 µL of cold PBS (ideally fresh PBS).
+5. Put in primary labelling buffer.
 6. Leave it in the fridge for 30 min.
 7. Wash out the primary using 1 mL PBS.
 8. Centrifuge (300G for 2 min) 1x
-9. Resuspend cell pellet in 50 µL cell media.
-10. Put in secondary labelling buffer (1:100). Probably around 0.5 µL.
-11. Leave it in the fridge for 30 min.
-12. Wash out using 1 mL PBS
-7. Centrifuge (200G for 2 min) 2x
-8. Resuspend cell pellet in 50 µL cell media.
+9. Resuspend cell in 1 mL of 2% PFA.
+10. Leave it at room temperature for 15 minutes.
+11. Centrifuge (300G for 2 min) 1x
+12. Pour off the buffer into a waste container.
+13. Add 50 µL of cold PBS. 
+
+### Secondary labelling
+1. Take 1mL of cells from the flask (10^6 cells per mL)
+2. Centrifuge to 50 µL (300G for 2 min) 1x
+3. Pour off the buffer into a waste container.
+4. Resuspend cell pellet in 50 µL of cold PBS (ideally fresh PBS).
+5. Put in unlabelled primary buffer.
+6. Leave it in the fridge for 30 min.
+7. Add 1 mL PBS.
+8. Centrifuge (300G for 2 min) 1x
+9. Pour off the buffer into the waste container.
+10. Resuspend cells in 1 mL of 2% PFA.
+11. Leave it at room temperature for 15 minutes.
+12. Centrifuge (300G for 2 min) 1x
+13. Pour off the buffer into the waste container.
+14. Resuspend cell pellet in 50 µL of coldPBS.
+15. Put in secondary labelling buffer.
+16. Leave it in the fridge for 30 min.
+17. Add 1 mL of cold PBS
+18. Centrifuge (300G for 2 min) 2x
+19. Resuspend cell pellet in 50 µL cold PBS. 
 
 #### Non-specific binding
 Protocol to prepare the samples to assess and compare the non-specific binding of the secondary antibody:
-1. Take 1mL of cells from the flask
-2. Centrifuge (300G for 2 min) 1x
+1. Take 1mL of cells from the flask (10^6 cells per mL)
+2. Centrifuge to 50 µL (300G for 2 min) 1x
 3. Pour off the buffer into a waste container.
 4. Resuspend cell pellet in 1mL BSA/PBS/cell media.
 5. Leave it on ice for 30 min.
 6. Spin down and take out the liquid.
 7. Resuspend cell pellet in 50 µL BSA/PBS/cell media.
-8. Put in secondary labelling buffer (1:100). Probably around 0.5 µL. 
-9. Leave it on ice for 30 min.
+8. Put in secondary labelling buffer.
+9. Leave it in the fridge for 30 min.
 10. Add 1mL of BSA/PBS/cell media.
 11. Spin and take all the liquid out.
-12. Repeat 10 and 11.
-13. Resuspend cell pellet in 50 µL BSA/PBS/cell media.
+13. Resuspend cell pellet in 50 µL cold PBS.
     
 ### Notes
 In a light-sheet illuminated volume in an OPM microscope, there is a 2.8 nM upper concentration limit:
